@@ -152,6 +152,8 @@ foodbar/
 
 ---
 
+## You can find gemini api key in *.env* file which we used in our app for chatbot.
+## You can see the requirements required in this project in requirements.txt file.
 
 ## Future Enhancements
 - Integration with wearable devices for health metric correlation.
