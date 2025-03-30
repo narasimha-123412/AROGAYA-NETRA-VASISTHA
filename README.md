@@ -13,6 +13,11 @@ In today's world, understanding the nutritional value of food is becoming increa
 
 ---
 
+### Demo Video link:
+https://drive.google.com/file/d/1H3xI2EpKO8uOwQqK3p7T7cf75JhFzI7L/view?usp=drivesdk
+
+## To see working view of our app on your mobile/system, download the apk available in APK folder.
+
 ## Team Members
 - **G Naga Vamshi** 
 - **Chris Mathew** 
@@ -108,6 +113,9 @@ foodbar/
 
 ---
 
+## What you can see
+### We added only the required files required to run this app.
+
 ## How to Use
 
 ### 1. Label Scanning
@@ -143,6 +151,7 @@ foodbar/
 - View allergen details in food analysis.
 
 ---
+
 
 ## Future Enhancements
 - Integration with wearable devices for health metric correlation.
