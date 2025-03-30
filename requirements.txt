@@ -1,0 +1,49 @@
+# FoodBar Application Requirements
+
+# Core Dependencies
+Flutter SDK >=3.4.3 <4.0.0
+Dart SDK >=3.4.3 <4.0.0
+
+# Flutter Packages
+flutter: sdk
+cupertino_icons: ^1.0.6
+google_generative_ai: ^0.4.6
+image_picker: ^1.1.2
+flutter_dotenv: ^5.2.1
+flutter_animate: ^4.5.2
+shared_preferences: ^2.3.3
+percent_indicator: ^4.2.4
+pie_chart: ^5.4.0
+intl: ^0.20.1
+dotted_border: ^2.1.0
+fl_chart: ^0.70.0
+rive: ^0.13.20
+flutter_launcher_icons: ^0.14.2
+shimmer: ^3.0.0
+path_provider: ^2.1.5
+flutter_ai_toolkit: ^0.6.7
+flutter_markdown: ^0.7.5
+mobile_scanner: ^3.5.6
+http: ^1.1.2
+cached_network_image: ^3.3.1
+rxdart: ^0.27.7
+
+# Development Dependencies
+flutter_test: sdk
+flutter_lints: ^3.0.0
+
+# API Requirements
+Google Gemini API Key - https://ai.google.dev/
+
+# Hardware Requirements
+Camera access for food scanning
+Internet connection for AI analysis
+Minimum 2GB RAM recommended
+100MB free storage space
+
+# Installation Instructions
+# 1. Install Flutter SDK from https://flutter.dev/docs/get-started/install
+# 2. Clone repository
+# 3. Create .env file with GEMINI_API_KEY=your_api_key
+# 4. Run 'flutter pub get'
+# 5. Run 'flutter run' to start the application 
