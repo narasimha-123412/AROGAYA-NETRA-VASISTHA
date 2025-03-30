@@ -14,10 +14,10 @@ In today's world, understanding the nutritional value of food is becoming increa
 ---
 
 ## Team Members
-- **[Team Member 1 Name]** - [Role/Responsibility]
-- **[Team Member 2 Name]** - [Role/Responsibility]
-- **[Team Member 3 Name]** - [Role/Responsibility]
-- **[Team Member 4 Name]** - [Role/Responsibility]
+- **G Naga Vamshi** 
+- **Chris Mathew** 
+- **P V L Narasimha Naidu** 
+- **S Advaith Ressy** 
 
 ---
 
